@@ -1,0 +1,42 @@
+ body{
+           padding: 0;
+           margin: 0;
+           font-family: Arial, Helvetica, sans-serif;
+           font-size: 16px;
+       }
+       #header{
+           background-color:rgb(121, 121, 121);
+           color: white;
+           padding: 30px;
+           text-align: center;
+           font-size: 35px;
+           height: 200px;
+       }          
+       #content{
+           background-color:white ;
+           color: black;
+           width: 100%;
+           display: flex;
+       }
+       #sizebar li:hover{
+        font-size: 30px;
+       }
+       #sizebar li{
+           display: inline;
+           text-decoration: none;
+           display: flex;
+       }
+       .text-header-content{
+            padding: 10px;
+            width: 70%;  
+        }
+       #sizebar{
+           background:rgb(155, 153, 153);
+           width: 30%;
+           padding :10px;
+       }
+       #footer{
+           background-color: rgb(167, 163, 163);
+           padding: 10px;
+           text-align: center;
+       }

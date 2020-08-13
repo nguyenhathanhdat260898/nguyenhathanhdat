@@ -1,0 +1,53 @@
+#main{
+  background-color: #f5f5dd;
+  margin: 0 auto;
+  width: 800px;
+  padding: 30px;
+}
+  .Email-Pass{
+    display: flex;
+  }
+  .Address{
+    display: flex;
+  }
+  .City-State-Zip{
+    display: flex;
+  } 
+    .text-30{
+      width: 30%;
+      display: flex;
+    }
+    .text-50{
+      width: 50%;
+    }
+    .text-100{
+      width: 100%;
+    }
+      .input-main{
+        display: flex;
+      }
+      .input-30{
+        width: 30%;
+        padding-right: 20px;
+      }
+        .input-50{
+          width: 50%;
+          padding-right: 20px;
+          
+        }      
+        .input-100{
+          width: 100%;
+          padding-right: 20px;
+        }
+        .input-100 > input{
+          width: 100%;
+        }
+        .input-50 > input{
+          width: 50%;
+        }
+        .input-30 > input{
+          width: 30%;
+        }
+h1{
+  text-align: center;
+}
