@@ -1,5 +1,5 @@
 .card-1{
-  background-color: greenyellow;
+  background-color: #efefef;
   margin: 4px;
 }
 .card-1-header{
@@ -9,7 +9,6 @@
 .card-1-content{
   display: flex;
   width: 100%;
-  /* margin: 0 auto; */
 }
 .card-1-content-1{
   border-right: solid 1px black;
@@ -26,7 +25,7 @@
   line-height: 20px;
 }
 .card-2{
-  background-color: yellow;
+  background-color: #efefef;
   margin: 4px;
 }
 .card-2-header{
@@ -41,19 +40,16 @@ font-size: 20px;
   padding: 10px;
   line-height: 20px;
   width: 10%;
-  line-height: 20px;
 }
 .card-2-content-2{
   padding: 10px;
   line-height: 20px;
   width: 12%;
-  line-height: 20px;
 }
 .card-2-content-3{
   padding: 10px;
   line-height: 20px;
   width: 27%;
-  line-height: 20px;
 }
 .card-2-phone{
   display: flex;
@@ -96,9 +92,25 @@ font-size: 20px;
 .card-2-footer{
   border-top: 1px solid black;
   width: 100%;
+  text-align: center;
+  padding: 5px 10px;
 }
 .card-2-footer-content{
   display: inline;
   border-right: 1px solid black ;
+  padding: 1px 10px;
+}
+.end{
   text-align: center;
+}
+.end-content-1{
+  opacity: 0.5;
+  display: inline;
+  padding: 5px 1px;
+}
+.end-content-2{
+  color: red;
+  font-size: 20px;
+  display: inline;
+  padding: 5px 1px;
 }
