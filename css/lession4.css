@@ -1,0 +1,104 @@
+.card-1{
+  background-color: greenyellow;
+  margin: 4px;
+}
+.card-1-header{
+  font-size: 20px;
+  font-weight: bold;
+}
+.card-1-content{
+  display: flex;
+  width: 100%;
+  /* margin: 0 auto; */
+}
+.card-1-content-1{
+  border-right: solid 1px black;
+  padding: 10px;
+  line-height: 20px;
+}
+.card-1-content-2{
+  border-right: solid 1px black;
+  padding: 10px;
+  line-height: 20px;
+}
+.card-1-content-3{
+  padding: 10px;
+  line-height: 20px;
+}
+.card-2{
+  background-color: yellow;
+  margin: 4px;
+}
+.card-2-header{
+font-weight: bold;
+font-size: 20px;
+}
+.card-2-content{
+  display: flex;
+  width: 100%;
+}
+.card-2-content-1{
+  padding: 10px;
+  line-height: 20px;
+  width: 10%;
+  line-height: 20px;
+}
+.card-2-content-2{
+  padding: 10px;
+  line-height: 20px;
+  width: 12%;
+  line-height: 20px;
+}
+.card-2-content-3{
+  padding: 10px;
+  line-height: 20px;
+  width: 27%;
+  line-height: 20px;
+}
+.card-2-phone{
+  display: flex;
+  opacity: 0.6;
+  
+}
+.card-2-phone-1{
+  color: red;
+  font-size: 30px;
+}
+.card-2-phone-2{
+  border-right: solid 1px black ;
+  padding:0px 10px;
+}
+.card-2-phone-2-content{
+  padding:0px 10px;
+}
+.card-2-content-3-1{
+  font-weight: bold;
+  font-size: 20px;
+}
+.card-2-content-3-2{
+  color: red;
+  font-weight: bold;
+}
+.card-2-content-4{
+  padding: 10px;
+  line-height: 20px;
+  width: 40%;
+  line-height: 20px;
+}
+.card-2-content a img{
+  width: 30px;
+  height: 30px;
+}
+.card-2-header{
+  font-size: 20px;
+  font-weight: bold;
+}
+.card-2-footer{
+  border-top: 1px solid black;
+  width: 100%;
+}
+.card-2-footer-content{
+  display: inline;
+  border-right: 1px solid black ;
+  text-align: center;
+}
